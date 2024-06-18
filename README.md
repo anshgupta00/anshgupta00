@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyam Krishna Gupta !
 - 👀 I’m interested in learning and gathering new information.
-- 🌱 I’m currently 3rd year Computer Engineering student.
+- 🌱 3rd year Computer Engineering student.
 
 
 <!---
