@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Krishna Gupta </h1>
 
 <p align="center">- 👀 I’m interested in learning and gathering new information.</p>
-<p align="center">- 🌱 3rd year Computer Engineering student.</p>
+<p align="center">- 🌱 Final Year Computer Engineering student.</p>
 
 <p align="center">
 <a href="https://github.com/anshgupta00">
